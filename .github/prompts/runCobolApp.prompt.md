@@ -1,6 +1,6 @@
 ---
 agent: 'agent'
-model: gpt-4.1
+model: Auto (copilot)
 description: 'Compile and run the Cobol accounting system'
 ---
 
