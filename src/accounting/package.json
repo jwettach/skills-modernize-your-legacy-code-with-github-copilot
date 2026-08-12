@@ -1,0 +1,25 @@
+{
+  "name": "student-account-management",
+  "version": "1.0.0",
+  "description": "Student Account Management System - Node.js conversion of COBOL legacy application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "account",
+    "banking",
+    "student",
+    "management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
